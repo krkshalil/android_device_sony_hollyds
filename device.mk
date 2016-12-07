@@ -15,7 +15,7 @@ $(call inherit-product-if-exists, frameworks/native/build/phone-xxhdpi-2048-hwui
 $(call inherit-product, device/common/gps/gps_us_supl.mk)
 
 # Vendor
-$(call inherit-product, vendor/sony/hollyss/hollyds-vendor-blobs.mk)
+$(call inherit-product, vendor/sony/hollyds/hollyds-vendor-blobs.mk)
 
 # Overlay Folder
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
