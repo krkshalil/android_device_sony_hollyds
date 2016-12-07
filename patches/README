@@ -1,5 +1,0 @@
-This is patch directory
-
-cd WORKING_DIR
-sh device/xiaomi/hermes/patches/install.sh
-sh device/xiaomi/hermes/patches/uninstall.sh
