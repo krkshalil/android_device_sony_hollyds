@@ -16,13 +16,13 @@ Camera  | 21.2 MP Primary, 13 MP Secondary
 
 ![Sony Xperia M5](http://cdn2.gsmarena.com/vv/pics/sony/sony-xperia-m5-2.jpg "Sony Xperia M5")
 
-This branch is for building CyanogenMod 13 Firmware.
+This branch is for building LineageOS 13 Firmware.
 
 TODO:
 =======
 
 	- Fix Camera
-	- Fix NFC
-	- Fix Audio
-        - Fix Ril
+	- Fix NFC (2017-11-04)
+	- Fix Audio (2016-13-12)
+    - Fix Ril
 
