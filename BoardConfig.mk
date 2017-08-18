@@ -5,7 +5,7 @@ include device/sony/holly-common/BoardConfigCommon.mk
 LOCAL_PATH := device/sony/hollyds
 
 #Building Kernel From Source
-TARGET_KERNEL_CONFIG := hollyds_defconfig
+TARGET_KERNEL_CONFIG := lineage_hollyds_defconfig
 
 #Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(LOCAL_PATH)/bluetooth
